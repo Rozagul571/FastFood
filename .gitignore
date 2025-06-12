@@ -1,0 +1,11 @@
+.idea/
+media/
+
+__pycache__
+.env
+
+dump/
+.pgpass
+
+venv/
+env/
